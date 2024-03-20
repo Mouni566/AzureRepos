@@ -1,1 +1,3 @@
 # AzureRepos
+azurefiles
+azure devops
